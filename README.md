@@ -2,7 +2,7 @@
 
 从真实故障构建可回放的 RCA Agent 评测案例，覆盖证据冻结、输入与查询接入、正式答卷提取、评分校准和回归比较。
 
-[阅读 Skill](SKILL.md) · 版本 0.1.0
+[阅读 Skill](SKILL.md) · 版本 0.1.1
 
 将整个目录放入目标 Agent 支持的 Skill 目录，保留 `SKILL.md`、`references/` 和 `agents/` 的相对结构。可使用以下请求开始：
 
