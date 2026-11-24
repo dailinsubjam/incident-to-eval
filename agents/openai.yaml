@@ -1,0 +1,4 @@
+interface:
+  display_name: "真实故障评测案例"
+  short_description: "从真实故障构建可回放评测，适配不同 Agent 的证据接口与最终输出"
+  default_prompt: "使用 $incident-to-eval，把这个真实故障整理为适配当前 Agent 的可回放评测案例。"
